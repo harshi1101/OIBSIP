@@ -16,7 +16,7 @@ button {
 }
 
 body {
-	background-color: #242948;
+	background-color: #f7e9ce;
 	color: #fff;
 }
 
@@ -40,15 +40,15 @@ main {
 }
 
 .app header h1 {
-	color: #fff;
+	color: black;
 	font-size: 24px;
 	font-weight: 400;
 }
 
 .app header button {
-	color: #fff;
+	color: black;
 	font-size: 18px;
-	border-bottom: 2px solid #fff;
+	border-bottom: 2px solid black;
 	text-transform: uppercase;
 }
 
@@ -108,7 +108,7 @@ main {
 }
 
 .actions button.remove-btn {
-	color: crimson;
+	color: #38deff;
 }
 
 .actions button:hover {
